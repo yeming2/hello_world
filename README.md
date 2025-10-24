@@ -13,7 +13,7 @@ markdown language : 글 서식 편집용 언어
 [네이버링크](https://www.naver.com)<br>
 [글씨](파일)
 
-[발표자료](/project,pptx)<br>
+[발표자료](/project.pptx)<br>
 
 ### 시스템 시연 영상
 
